@@ -15,11 +15,11 @@
   }
   
   .contactForm button {
-    background-color:#FF69B4;
+    background-color:#69e1ff;
     color: white;
     cursor: pointer;
   }
   
   .contactForm button:hover {
-    background-color:#e2347a; 
+    background-color:#3448e2; 
   }

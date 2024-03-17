@@ -2,6 +2,6 @@
 import './Home.css'
 export default function Home () {
     return (
-        <h1>Welcome!</h1>
+        <h1>HI! Nice to see You!</h1>
     )
 }

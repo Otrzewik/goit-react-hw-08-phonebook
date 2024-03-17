@@ -8,7 +8,7 @@
 }
 
 .navLinkActive {
-  color: #ff00bb;
+  color: #0400ff;
   font-weight: bold;
 }
 .navContainer {
@@ -16,10 +16,10 @@
   justify-content: center;
   align-items: center;
 
-  background-color: #f4d3f0;
+  background-color: #d3e0f4;
   padding: 20px 0;
 }
 
 .themeToggle svg {
-  color: #ff00bb;
+  color: #2b00ff;
 }
